@@ -1,1 +1,1 @@
-Projeto do curso de java do professor Nélio Alves
+Projeto de SpringBoot, maven e banco h2. Curso ofertado pelo professor Nélio Alves
