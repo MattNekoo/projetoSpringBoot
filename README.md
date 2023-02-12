@@ -10,9 +10,13 @@ A aplicação consiste em um sistema de Produtos, cadastro dos clientes e pedido
 - Spring Boot 3
 - JPA / Hibernate
 - Maven
-## Implantação em produção
-- Back end: Heroku
+
+## Implantação em test e dev
 
 Alterar nos arquivos TestConfig.java e application.properties o perfil desejado.
+
 - Banco de dados para Perfil de Teste: h2-database
 - Banco de dados para Perfil de Dev: Postgresql
+
+## Implantação em produção
+- Back end: Heroku
